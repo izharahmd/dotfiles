@@ -1,0 +1,16 @@
+/Desktop
+/Documents
+/Downloads
+/Dropbox
+/Movies
+/Music
+/Pictures
+/Public
+
+/code
+
+# Mac
+.DS_Store
+/Applications
+/Creative Cloud Files
+/Library

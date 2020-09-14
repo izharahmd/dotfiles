@@ -1,0 +1,8 @@
+export FUNCTIONS_CORE_TOOLS_TELEMETRY_OPTOUT=1
+export PG_HOST=localhost
+export PG_PASS=postgres
+export PG_DB=
+export PG_USER=postgres
+export QUEUE_CLUSTER_ID=""
+export QUEUE_URL=""
+export SAP_NAMESPACE=""
