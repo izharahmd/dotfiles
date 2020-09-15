@@ -1,6 +1,8 @@
 [user]
 	name = izharahmd
 	email = izhar0407@gmail.com
+[core]
+	editor = vim
 [color]
 	ui = auto
 [alias]
