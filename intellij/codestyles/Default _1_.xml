@@ -1,0 +1,10 @@
+<code_scheme name="Default (1)" version="173">
+  <option name="RIGHT_MARGIN" value="100" />
+  <option name="SOFT_MARGINS" value="119" />
+  <ScalaCodeStyleSettings>
+    <option name="sortAsScalastyle" value="true" />
+  </ScalaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>

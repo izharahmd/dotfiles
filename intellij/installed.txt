@@ -1,0 +1,9 @@
+Docker
+PythonCore
+mobi.hsz.idea.gitignore
+net.seesharpsoft.intellij.plugins.csv
+org.intellij.plugins.hcl
+org.intellij.scala
+org.jetbrains.kotlin
+org.jetbrains.plugins.hocon
+org.scalafmt.ScalaFmt

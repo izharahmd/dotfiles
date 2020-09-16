@@ -1,0 +1,49 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <colors>
+    <option name="INDENT_GUIDE" value="46605e" />
+    <option name="SELECTED_TEARLINE_COLOR" value="767676" />
+  </colors>
+  <attributes>
+    <option name="Scala Anonymous Parameter">
+      <value>
+        <option name="FOREGROUND" value="7784e8" />
+      </value>
+    </option>
+    <option name="Scala Class method call">
+      <value>
+        <option name="FOREGROUND" value="ffc6bd" />
+      </value>
+    </option>
+    <option name="Scala Local lazy val/var">
+      <value>
+        <option name="FOREGROUND" value="4ec6a5" />
+      </value>
+    </option>
+    <option name="Scala Local value">
+      <value>
+        <option name="FOREGROUND" value="69a3ba" />
+      </value>
+    </option>
+    <option name="Scala Local variable">
+      <value>
+        <option name="FOREGROUND" value="c67264" />
+      </value>
+    </option>
+    <option name="Scala Object">
+      <value>
+        <option name="FOREGROUND" value="b500" />
+      </value>
+    </option>
+    <option name="Scala Object method call">
+      <value>
+        <option name="FOREGROUND" value="ffc6bd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Scala Parameter">
+      <value>
+        <option name="FOREGROUND" value="70c4ff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
