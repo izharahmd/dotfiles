@@ -6,3 +6,4 @@ alias lgrp="ll | grep $@"
 alias hgrp="history | grep $@"
 alias dk='docker'
 alias dps='docker ps'
+alias vir='vim -R'
