@@ -4,6 +4,4 @@ alias du1s="du -h -d1 | sort -h"
 alias du1sr="du -h -d1 | sort -hr"
 alias lgrp="ll | grep $@"
 alias hgrp="history | grep $@"
-alias dk='docker'
-alias dps='docker ps'
 alias vir='vim -R'
