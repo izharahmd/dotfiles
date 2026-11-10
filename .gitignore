@@ -14,3 +14,6 @@
 /Applications
 /Creative Cloud Files
 /Library
+
+# Local install overrides
+/.install-skip
