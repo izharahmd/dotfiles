@@ -17,3 +17,4 @@
 
 # Local install overrides
 /.install-skip
+/.install-completion-tools
