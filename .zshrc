@@ -112,11 +112,10 @@ $1 | pbcopy
 echo "copied $1 command output"
 }
 
-. "$HOME/.local/bin/env"
 autoload -U compinit; compinit
 
 #################### PATH ######################################
-export PATH="$PATH:$HOME/.local/bin/env:$HOME/.local/bin"
+export PATH="$PATH:$HOME/.local/bin"
 
 #################### CUSTOM ALIASES ############################
 source ~/.aliases
